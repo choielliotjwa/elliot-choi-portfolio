@@ -39,7 +39,7 @@ The debate on industrial policies has long been polarized between proponents of 
 **Journal:** *Proceedings of the National Academy of Sciences (PNAS)*, Vol. 120(43), e2222013120  
 **Citations:** 42
 
-As public and private institutions recognize the role of space exploration as a catalyst for economic growth, various areas of innovation are expected to emerge as drivers of the space economy. These include space transportation, in-space manufacturing, bioproduction, in-space agriculture, nuclear launch, and propulsion systems, as well as satellite services and their maintenance. We present a public–private research and development partnership (PPRDP) structure to avoid coordination failures.
+As public and private institutions regit statuscognize the role of space exploration as a catalyst for economic growth, various areas of innovation are expected to emerge as drivers of the space economy. These include space transportation, in-space manufacturing, bioproduction, in-space agriculture, nuclear launch, and propulsion systems, as well as satellite services and their maintenance. We present a public–private research and development partnership (PPRDP) structure to avoid coordination failures.
 
 [Full Text](https://doi.org/10.1073/pnas.2222013120) · [PDF](https://www.pnas.org/doi/pdf/10.1073/pnas.2222013120) · [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9fcDxfQAAAAJ&citation_for_view=9fcDxfQAAAAJ:u5HHmVD_uO8C)
 
