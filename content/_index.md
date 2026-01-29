@@ -5,62 +5,58 @@ layout: landing
 
 <div class="book-hero">
 
-# HUGO BOOK {anchor=false}
-[Hugo](https://gohugo.io) documentation theme as simple as plain book
+# Elliot Choi {anchor=false}
 
-[{{< badge style="info" title="Hugo" value="0.146" >}}](https://github.com/gohugoio/hugo/releases/tag/v0.146.7)
-[{{< badge style="default" title="License" value="MIT" >}}](https://github.com/alex-shpak/hugo-book/blob/main/LICENSE)
+Public Capital · Venture Strategy · Applied Research
 
-{{<button href="/docs/example">}}Explore{{</button>}}
+{{<button href="/about/">}}Explore{{</button>}}
 
 </div>
 
 {{% columns %}}
-- ## What Hugo-Book Theme Is
-  Hugo book theme is primarily designed to create technical documentation sites that are easy to read, write, navigate and maintain. It is an attempt to create a sustainable web project.
+- ## Who I Am
+  I work at the intersection of public capital, venture strategy, and research — focused on how institutional design and financial instruments shape innovation in high-friction, public goods domains like space, climate, and education.
 
-- ## What Hugo-Book Theme Is Not
-  Book theme is not trying to implement all features but to create a starting point. It is mostly feature complete and gets updated and improved to stay relevant with Hugo and modern web.
-{{% /columns %}}
-
-
-{{% columns %}}
-- {{< card >}}
-  ## Probably fast
-  Build on Hugo static site generator. "The world’s fastest framework for building websites".
-  {{< /card >}}
-
-- {{< card >}}
-  ## 50% JS free
-  All important features are working even with JavaScript disabled in browser, including interactive shortcodes.
-  {{< /card >}}
-
-- {{< card >}}
-  ## Minimalistic
-  For real, it is very minimalistic, black on white. No extra tools are needed to build the site, only Hugo. No heavy JS or CSS frameworks included.
-  {{< /card >}}
+- ## What I Do
+  Currently at the California State Treasurer's Office supporting public financing strategies. In parallel, I advise on early-stage aerospace and defense investments at New Vista Capital and conduct research at UC Berkeley.
 {{% /columns %}}
 
 {{% columns %}}
 - {{< card >}}
-  ### Shortcodes
-  Pretty good shortcodes are included to enhance markup files:
-  [Columns](/docs/shortcodes/columns/),
-  [Cards](/docs/shortcodes/experimental/cards/),
-  [Tabs](/docs/shortcodes/tabs/),
-  [Images](/docs/shortcodes/experimental/images/),
-  [Asciinema](/docs/shortcodes/experimental/asciinema/),
-  [KaTex](/docs/shortcodes/katex/),
-  [Mermaid](/docs/shortcodes/mermaid/) and others.
+  ## Latest Paper
+  Integrating Political-Economic Industrial Policy Design in Natural Resource Sectors (2025) — *Annual Review of Resource Economics*
+  [Read more →](/papers/)
   {{< /card >}}
 
 - {{< card >}}
-  ### Even more
-  Do people actually read these? I thought it was just a visual filler. But there is full-text search and multi-language support.
+  ## PNAS Publication
+  Public–Private Partnerships in Fostering Outer Space Innovations (2023)
+  [Read more →](/papers/)
   {{< /card >}}
 
 - {{< card >}}
-  ### Made to be extendable
-  There are multiple points to inject own styles and templates to make your documentation your own.
+  ## Recent Post
+  Latest writings and thoughts.
+  [Read more →](/blogs/)
+  {{< /card >}}
+{{% /columns %}}
+
+{{% columns %}}
+- {{< card >}}
+  ### Experience
+  Financial Analyst at CA State Treasurer's Office, Advisor at New Vista Capital, 5+ years research at UC Berkeley.
+  [View all →](/about/)
+  {{< /card >}}
+
+- {{< card >}}
+  ### CV
+  View and download my full CV.
+  [Download →](/cv/)
+  {{< /card >}}
+
+- {{< card >}}
+  ### Contact
+  Get in touch for collaborations.
+  [Email →](mailto:choielliotjwa@berkeley.edu)
   {{< /card >}}
 {{% /columns %}}

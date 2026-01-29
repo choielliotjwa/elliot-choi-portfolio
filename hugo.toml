@@ -6,10 +6,41 @@ languageCode = "en"
 [[module.imports]]
 path = "github.com/alex-shpak/hugo-book"
 
-[params]
-BookTheme = "light"
-BookToC = true
-BookSection = "docs"
-
 [markup.goldmark.renderer]
 unsafe = true
+
+[params]
+BookTheme = "light"
+BookSection = "blogs"
+BookSearch = true
+
+[menu]
+[[menu.home]]
+name = "About"
+pageRef = "/about/"
+weight = 1
+
+[[menu.home]]
+name = "Papers"
+pageRef = "/papers/"
+weight = 2
+
+[[menu.home]]
+name = "CV"
+pageRef = "/cv/"
+weight = 3
+
+[[menu.home]]
+name = "Blog"
+pageRef = "/blogs/"
+weight = 4
+
+[[menu.home]]
+name = "GitHub"
+url = "https://github.com/Choielliotjwa"
+weight = 5
+
+[[menu.after]]
+name = "GitHub"
+url = "https://github.com/Choielliotjwa"
+weight = 10
