@@ -1,6 +1,7 @@
 ---
 title: "About"
-type: "docs"
+type: "page"
+bookToc: false
 ---
 
 # About Me

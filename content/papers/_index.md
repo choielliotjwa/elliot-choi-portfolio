@@ -1,6 +1,7 @@
 ---
 title: "Papers"
-type: "docs"
+type: "page"
+bookToc: false
 ---
 
 # Papers & Publications
