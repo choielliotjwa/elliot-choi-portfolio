@@ -32,7 +32,7 @@ Then open http://localhost:1313 in your browser.
 When you're happy with your changes:
 ```
 git add .
-git commit -m "Describe what you changed"
+git commit -m "added assistanship"
 git push
 ```
 

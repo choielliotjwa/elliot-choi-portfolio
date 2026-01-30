@@ -69,7 +69,7 @@ Research, consulting and valuations for expert witnesses in:
 - Pride v. United States Department of Agriculture (Defendant)
 - Provost v. USDA (Defendant)
 
-### UC Berkeley Research Positions
+### UC Berkeley Research Assistantships Positions
 
 **Department of Agricultural & Resource Economics**  
 Professor Gordon Rausser — *February 2020 – Present*
