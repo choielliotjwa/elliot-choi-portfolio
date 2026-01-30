@@ -27,7 +27,7 @@ weight = 2
 
 [[menu.home]]
 name = "CV"
-url = "/files/Elliot_Choi_Resume.pdf"
+url = "https://elliotchoi.com/files/Elliot_Choi_Resume.pdf"
 weight = 3
 
 [[menu.home]]
