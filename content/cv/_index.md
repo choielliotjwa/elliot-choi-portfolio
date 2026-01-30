@@ -1,8 +1,1 @@
----
-title: "CV"
-type: "docs"
----
-
-# CV
-
-Your CV will go here.
+No need to write anything here. 

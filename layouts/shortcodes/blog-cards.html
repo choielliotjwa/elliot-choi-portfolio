@@ -1,0 +1,20 @@
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1.5rem; margin-top: 1rem;">
+{{ range where .Site.RegularPages "Section" "blogs" }}
+{{ if ne .Title "Blog" }}
+<a href="{{ .Permalink }}" style="text-decoration: none; color: inherit;">
+  <div style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem; height: 100%; transition: box-shadow 0.2s, transform 0.2s;">
+    <h3 style="margin-top: 0; margin-bottom: 0.5rem; color: #1a1a1a;">{{ .Title }}</h3>
+    <p style="font-size: 0.85rem; color: #666; margin-bottom: 0.75rem;">{{ .Date.Format "January 2, 2006" }}</p>
+    <p style="color: #444; font-size: 0.95rem; line-height: 1.5;">{{ .Summary | truncate 150 }}</p>
+  </div>
+</a>
+{{ end }}
+{{ end }}
+</div>
+
+<style>
+  a:hover > div {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    transform: translateY(-2px);
+  }
+</style>

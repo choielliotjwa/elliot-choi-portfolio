@@ -27,7 +27,7 @@ weight = 2
 
 [[menu.home]]
 name = "CV"
-pageRef = "/cv/"
+url = "/files/Elliot_Choi_Resume.pdf"
 weight = 3
 
 [[menu.home]]
@@ -36,11 +36,8 @@ pageRef = "/blogs/"
 weight = 4
 
 [[menu.home]]
-name = "GitHub"
-url = "https://github.com/Choielliotjwa"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/elliot-choi/"
 weight = 5
 
-[[menu.after]]
-name = "GitHub"
-url = "https://github.com/Choielliotjwa"
-weight = 10
+

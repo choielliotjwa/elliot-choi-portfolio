@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Elliot Choi</title>
+    <title>Blog on Elliot Choi</title>
     <link>http://localhost:1313/blogs/</link>
-    <description>Recent content in Blogs on Elliot Choi</description>
+    <description>Recent content in Blog on Elliot Choi</description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Industrial Policy in Natural Resource Sectors</title>
+      <link>http://localhost:1313/blogs/industrial-policy/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/industrial-policy/</guid>
+      <description>Moving beyond the false dichotomy of government intervention vs. free markets in designing effective industrial policies.</description>
+    </item>
+    <item>
+      <title>Rethinking Public-Private Partnerships in Space</title>
+      <link>http://localhost:1313/blogs/space-partnerships/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/space-partnerships/</guid>
+      <description>How can we design better institutional structures for space exploration? Lessons from our PNAS research on avoiding coordination failures.</description>
+    </item>
+    <item>
+      <title>Understanding DeFi Derivatives</title>
+      <link>http://localhost:1313/blogs/defi-derivatives/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/defi-derivatives/</guid>
+      <description>A primer on synthetic assets and on-chain portfolio management — what they are, how they work, and why they matter.</description>
+    </item>
   </channel>
 </rss>
